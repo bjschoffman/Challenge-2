@@ -8,7 +8,7 @@ To create a portfolio, so that it can showcase skills and talents to employers l
 
 ## Usage
 
-Deployed application: 
+Deployed application: https://bjschoffman.github.io/Challenge-2-Pro-Portfolio/
 
 ## Credits
 
