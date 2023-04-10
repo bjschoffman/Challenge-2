@@ -18,13 +18,15 @@ header {
   
   .list {
     float: right;
-  }
-  
-  .list a {
+    text-align: right;
     display: inline;
     color: white;
-    text-align: right;
     padding: 14px 16px;
+  }
+  
+  a {
+    display: inline;
+    
     text-decoration: none;
   }
 
